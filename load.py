@@ -1,5 +1,6 @@
 import csv
 import time
+import json
 from geopy.geocoders import Nominatim
 
 def process():
@@ -62,3 +63,12 @@ def process():
                 print(f"Unknown state {state}")
 
         print(data)
+
+        # Save as JSON file
+        json_object = json.dumps(data, indent = 4)
+
+        # Writing to sample.json
+        with open("parks.json", "w") as outfile:
+            outfile.write(json_object)
+
+        # Load into POSTGRES

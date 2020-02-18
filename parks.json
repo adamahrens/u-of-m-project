@@ -1,0 +1,506 @@
+[
+    {
+        "abbv": "ACAD",
+        "name": "Acadia National Park",
+        "longitude": "-68.24411198",
+        "latitude": "44.35075139",
+        "state": "Maine",
+        "region": "North East"
+    },
+    {
+        "abbv": "ARCH",
+        "name": "Arches National Park",
+        "longitude": "-109.595456",
+        "latitude": "38.70791763",
+        "state": "Utah",
+        "region": "Intermountain"
+    },
+    {
+        "abbv": "BADL",
+        "name": "Badlands National Park",
+        "longitude": "-102.3939451",
+        "latitude": "43.83406241",
+        "state": "South Dakota",
+        "region": "Midwest"
+    },
+    {
+        "abbv": "BIBE",
+        "name": "Big Bend National Park",
+        "longitude": "-103.2297897",
+        "latitude": "29.29817767",
+        "state": "Texas",
+        "region": "Intermountain"
+    },
+    {
+        "abbv": "BISC",
+        "name": "Biscayne National Park",
+        "longitude": "-80.21830159",
+        "latitude": "25.46968925",
+        "state": "Florida",
+        "region": "South East"
+    },
+    {
+        "abbv": "BLCA",
+        "name": "Black Canyon Of The Gunnison National Park",
+        "longitude": "-107.7239802",
+        "latitude": "38.57739225",
+        "state": "Colorado",
+        "region": "Intermountain"
+    },
+    {
+        "abbv": "BRCA",
+        "name": "Bryce Canyon National Park",
+        "longitude": "-112.1826689",
+        "latitude": "37.58399144",
+        "state": "Utah",
+        "region": "Intermountain"
+    },
+    {
+        "abbv": "CANY",
+        "name": "Canyonlands National Park",
+        "longitude": "-109.8831463",
+        "latitude": "38.27207288",
+        "state": "Utah",
+        "region": "Intermountain"
+    },
+    {
+        "abbv": "CARE",
+        "name": "Capitol Reef National Park",
+        "longitude": "-111.0032929",
+        "latitude": "37.79599254",
+        "state": "Utah",
+        "region": "Intermountain"
+    },
+    {
+        "abbv": "CAVE",
+        "name": "Carlsbad Caverns National Park",
+        "longitude": "-104.5277656",
+        "latitude": "32.15234275",
+        "state": "New Mexico",
+        "region": "Intermountain"
+    },
+    {
+        "abbv": "CHIS",
+        "name": "Channel Islands National Park",
+        "longitude": "-119.7251698",
+        "latitude": "34.00392978",
+        "state": "California",
+        "region": "Pacific West"
+    },
+    {
+        "abbv": "CONG",
+        "name": "Congaree National Park",
+        "longitude": "-80.81835233",
+        "latitude": "33.80620431",
+        "state": "South Carolina",
+        "region": "South East"
+    },
+    {
+        "abbv": "CRLA",
+        "name": "Crater Lake National Park",
+        "longitude": "-122.1352587",
+        "latitude": "42.94443605",
+        "state": "Oregon",
+        "region": "Pacific West"
+    },
+    {
+        "abbv": "CUVA",
+        "name": "Cuyahoga Valley National Park",
+        "longitude": "-81.56903441",
+        "latitude": "41.26071336",
+        "state": "Ohio",
+        "region": "Midwest"
+    },
+    {
+        "abbv": "DEVA",
+        "name": "Death Valley National Park",
+        "longitude": "-117.1351115",
+        "latitude": "36.4874191",
+        "state": "California",
+        "region": "Pacific West"
+    },
+    {
+        "abbv": "DENA",
+        "name": "Denali National Park & Preserve",
+        "longitude": "-151.0526355",
+        "latitude": "63.29777436",
+        "state": "Alaska",
+        "region": "Alaska"
+    },
+    {
+        "abbv": "DRTO",
+        "name": "Dry Tortugas National Park",
+        "longitude": "-82.86655423",
+        "latitude": "24.65439562",
+        "state": "Florida",
+        "region": "South East"
+    },
+    {
+        "abbv": "EVER",
+        "name": "Everglades National Park",
+        "longitude": "-80.95349639",
+        "latitude": "25.27225616",
+        "state": "Florida",
+        "region": "South East"
+    },
+    {
+        "abbv": "GAAR",
+        "name": "Gates Of The Arctic National Park & Preserve",
+        "longitude": "-153.2641323",
+        "latitude": "67.91928544",
+        "state": "Alaska",
+        "region": "Alaska"
+    },
+    {
+        "abbv": "GATE",
+        "name": "Gateway National Recreation Area",
+        "longitude": "-73.8612616",
+        "latitude": "40.60261552",
+        "state": "New York",
+        "region": "North East"
+    },
+    {
+        "abbv": "GLBA",
+        "name": "Glacier Bay National Park & Preserve",
+        "longitude": "-136.8407173",
+        "latitude": "58.80086474",
+        "state": "Alaska",
+        "region": "Alaska"
+    },
+    {
+        "abbv": "GLAC",
+        "name": "Glacier National Park",
+        "longitude": "-113.8007916",
+        "latitude": "48.68426876",
+        "state": "Montana",
+        "region": "Intermountain"
+    },
+    {
+        "abbv": "GRCA",
+        "name": "Grand Canyon National Park",
+        "longitude": "-112.1958633",
+        "latitude": "36.18668314",
+        "state": "Arizona",
+        "region": "Intermountain"
+    },
+    {
+        "abbv": "GRTE",
+        "name": "Grand Teton National Park",
+        "longitude": "-110.7054666",
+        "latitude": "43.81853565",
+        "state": "Wyoming",
+        "region": "Intermountain"
+    },
+    {
+        "abbv": "GRBA",
+        "name": "Great Basin National Park",
+        "longitude": "-114.2579782",
+        "latitude": "38.94617378",
+        "state": "Nevada",
+        "region": "Pacific West"
+    },
+    {
+        "abbv": "GRSA",
+        "name": "Great Sand Dunes National Park & Preserve",
+        "longitude": "-105.5783263",
+        "latitude": "37.7599427",
+        "state": "Colorado",
+        "region": "Intermountain"
+    },
+    {
+        "abbv": "GRSM",
+        "name": "Great Smoky Mountains National Park",
+        "longitude": "-83.77104781",
+        "latitude": "35.53381126",
+        "state": "North Carolina",
+        "region": "South East"
+    },
+    {
+        "abbv": "GUMO",
+        "name": "Guadalupe Mountains National Park",
+        "longitude": "-104.8843472",
+        "latitude": "31.92338421",
+        "state": "Texas",
+        "region": "Intermountain"
+    },
+    {
+        "abbv": "HALE",
+        "name": "Haleakala National Park",
+        "longitude": "-156.1470931",
+        "latitude": "20.70451213",
+        "state": "Hawaii",
+        "region": "Hawaii"
+    },
+    {
+        "abbv": "HAVO",
+        "name": "Hawaii Volcanoes National Park",
+        "longitude": "-155.2118229",
+        "latitude": "19.32614216",
+        "state": "Hawaii",
+        "region": "Hawaii"
+    },
+    {
+        "abbv": "HOSP",
+        "name": "Hot Springs National Park",
+        "longitude": "-93.08972185",
+        "latitude": "34.51113823",
+        "state": "Arkansas",
+        "region": "Midwest"
+    },
+    {
+        "abbv": "INDU",
+        "name": "Indiana Dunes National Lakeshore",
+        "longitude": "-87.03241529",
+        "latitude": "41.66145785",
+        "state": "Indiana",
+        "region": "Midwest"
+    },
+    {
+        "abbv": "ISRO",
+        "name": "Isle Royale National Park",
+        "longitude": "-89.10441848",
+        "latitude": "47.90083958",
+        "state": "Michigan",
+        "region": "Midwest"
+    },
+    {
+        "abbv": "JOTR",
+        "name": "Joshua Tree National Park",
+        "longitude": "-116.1590708",
+        "latitude": "33.98096523",
+        "state": "California",
+        "region": "Pacific West"
+    },
+    {
+        "abbv": "KATM",
+        "name": "Katmai National Park & Preserve",
+        "longitude": "-155.0134105",
+        "latitude": "58.62257397",
+        "state": "Alaska",
+        "region": "Alaska"
+    },
+    {
+        "abbv": "KEFJ",
+        "name": "Kenai Fjords National Park",
+        "longitude": "-149.8815245",
+        "latitude": "59.95389689",
+        "state": "Alaska",
+        "region": "Alaska"
+    },
+    {
+        "abbv": "KICA",
+        "name": "Kings Canyon National Park",
+        "longitude": "-118.5938406",
+        "latitude": "36.87494211",
+        "state": "California",
+        "region": "Pacific West"
+    },
+    {
+        "abbv": "KOVA",
+        "name": "Kobuk Valley National Park",
+        "longitude": "-159.0630833",
+        "latitude": "67.28263653",
+        "state": "Alaska",
+        "region": "Alaska"
+    },
+    {
+        "abbv": "LACL",
+        "name": "Lake Clark National Park & Preserve",
+        "longitude": "-153.6018442",
+        "latitude": "60.64679691",
+        "state": "Alaska",
+        "region": "Alaska"
+    },
+    {
+        "abbv": "LAVO",
+        "name": "Lassen Volcanic National Park",
+        "longitude": "-121.4121266",
+        "latitude": "40.48622026",
+        "state": "California",
+        "region": "Pacific West"
+    },
+    {
+        "abbv": "MACA",
+        "name": "Mammoth Cave National Park",
+        "longitude": "-86.13090198",
+        "latitude": "37.19760458",
+        "state": "Kentucky",
+        "region": "South East"
+    },
+    {
+        "abbv": "MEVE",
+        "name": "Mesa Verde National Park",
+        "longitude": "-108.5009289",
+        "latitude": "37.22351315",
+        "state": "Colorado",
+        "region": "Intermountain"
+    },
+    {
+        "abbv": "MORA",
+        "name": "Mount Rainier National Park",
+        "longitude": "-121.7057451",
+        "latitude": "46.8605592",
+        "state": "Washington",
+        "region": "Pacific West"
+    },
+    {
+        "abbv": "NPSA",
+        "name": "National Park of American Samoa",
+        "longitude": "-169.4538076",
+        "latitude": "-14.23972773",
+        "state": "American Samoa",
+        "region": "American Samoa"
+    },
+    {
+        "abbv": "NOCA",
+        "name": "North Cascades National Park",
+        "longitude": "-121.3475578",
+        "latitude": "48.83303941",
+        "state": "Washington",
+        "region": "Pacific West"
+    },
+    {
+        "abbv": "OLYM",
+        "name": "Olympic National Park",
+        "longitude": "-123.6194452",
+        "latitude": "47.7945352",
+        "state": "Washington",
+        "region": "Pacific West"
+    },
+    {
+        "abbv": "PEFO",
+        "name": "Petrified Forest National Park",
+        "longitude": "-109.6747177",
+        "latitude": "34.9886818",
+        "state": "Arizona",
+        "region": "Intermountain"
+    },
+    {
+        "abbv": "PINN",
+        "name": "Pinnacles National Monument",
+        "longitude": "-121.1811009",
+        "latitude": "36.49013101",
+        "state": "California",
+        "region": "Pacific West"
+    },
+    {
+        "abbv": "REDW",
+        "name": "Redwood National and State Parks",
+        "longitude": "-124.0048297",
+        "latitude": "41.27702956",
+        "state": "California",
+        "region": "Pacific West"
+    },
+    {
+        "abbv": "ROMO",
+        "name": "Rocky Mountain National Park",
+        "longitude": "-105.6983853",
+        "latitude": "40.3557984",
+        "state": "Colorado",
+        "region": "Intermountain"
+    },
+    {
+        "abbv": "SAGU",
+        "name": "Saguaro National Park",
+        "longitude": "-110.6083141",
+        "latitude": "32.17883609",
+        "state": "Arizona",
+        "region": "Intermountain"
+    },
+    {
+        "abbv": "SEKI",
+        "name": "Sequoia & Kings Canyon National Parks",
+        "longitude": "-118.5752011",
+        "latitude": "36.50785282",
+        "state": "California",
+        "region": "Pacific West"
+    },
+    {
+        "abbv": "SHEN",
+        "name": "Shenandoah National Park",
+        "longitude": "-78.67619963",
+        "latitude": "38.28108211",
+        "state": "Virginia",
+        "region": "North East"
+    },
+    {
+        "abbv": "THRO",
+        "name": "Theodore Roosevelt National Park",
+        "longitude": "-103.4592508",
+        "latitude": "46.95362097",
+        "state": "North Dakota",
+        "region": "Midwest"
+    },
+    {
+        "abbv": "VIIS",
+        "name": "Virgin Islands National Park",
+        "longitude": "-64.77111049",
+        "latitude": "18.35379862",
+        "state": "United States Virgin Islands",
+        "region": "Virgin Islands"
+    },
+    {
+        "abbv": "VOYA",
+        "name": "Voyageurs National Park",
+        "longitude": "-92.9805713",
+        "latitude": "48.51716932",
+        "state": "Minnesota",
+        "region": "Midwest"
+    },
+    {
+        "abbv": "WHSA",
+        "name": "White Sands National Monument",
+        "longitude": "-106.3350722",
+        "latitude": "32.77913338",
+        "state": "New Mexico",
+        "region": "Intermountain"
+    },
+    {
+        "abbv": "WICA",
+        "name": "Wind Cave National Park",
+        "longitude": "-103.4287764",
+        "latitude": "43.60787178",
+        "state": "South Dakota",
+        "region": "Midwest"
+    },
+    {
+        "abbv": "WOTR",
+        "name": "Wolf Trap National Park for the Performing Arts",
+        "longitude": "-77.2635541",
+        "latitude": "38.937932",
+        "state": "Virginia",
+        "region": "North East"
+    },
+    {
+        "abbv": "WRST",
+        "name": "Wrangell - St Elias National Park & Preserve",
+        "longitude": "-142.6035711",
+        "latitude": "61.41843938",
+        "state": "Alaska",
+        "region": "Alaska"
+    },
+    {
+        "abbv": "YELL",
+        "name": "Yellowstone National Park",
+        "longitude": "-110.490083",
+        "latitude": "44.58303222",
+        "state": "Wyoming",
+        "region": "Intermountain"
+    },
+    {
+        "abbv": "YOSE",
+        "name": "Yosemite National Park",
+        "longitude": "-119.5560073",
+        "latitude": "37.84893657",
+        "state": "California",
+        "region": "Pacific West"
+    },
+    {
+        "abbv": "ZION",
+        "name": "Zion National Park",
+        "longitude": "-112.9544316",
+        "latitude": "37.2557095",
+        "state": "Utah",
+        "region": "Intermountain"
+    }
+]
