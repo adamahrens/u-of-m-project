@@ -10,7 +10,12 @@ app = Flask(__name__)
 # Route to render index.html template using data from Mongo
 @app.route("/")
 def home():
-    l.process()
+
+    # Run this to generate the parks.json file
+    # l.process()
+
+    # Load parks.json into POSTGRES
+
     # Return template and data
     return render_template("index.html")
 
